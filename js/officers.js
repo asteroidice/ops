@@ -12,7 +12,7 @@ var officer = {
     imageUrl: "kyle.jpg"
   },
   "Nathan Zimerly": {
-    position: "",
+    position: "Marketing VP",
     imageUrl: "nathan.jpg"
   },
   "Nickolas Leach": {
@@ -21,7 +21,7 @@ var officer = {
   },
   "Kyler Morgan": {
     position: "Secretary",
-    imageUrl: "//lorempixel.com/400/600/people"
+    imageUrl: "//lorempixel.com/400/600/cats"
   }
 };
 $(document).ready(function() {
