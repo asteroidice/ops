@@ -20,9 +20,9 @@ var officerTeam = {
       position: "President",
       imageUrl: "johnel.jpg"
     },
-    "Daniel Wilkinson": {
+    "Caleb Bibb": {
       position: "Executive VP",
-      imageUrl: "daniel.jpg"
+      imageUrl: "Caleb Bibb.jpg"
     },
     "Kyle Nicolas": {
       position: "Social VP",

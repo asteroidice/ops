@@ -12,7 +12,7 @@ if (strcmp($enteredPassword , $password ) == 0 && strcmp($enteredUName , $uName)
   if(strcmp($enteredPassword , 'password' ) == 0 || strcmp($enteredUName , 'username' ) == 0){
     exit(json_encode('You have not changed the default Username or Password. <br>    1. Get some sleep. <br>    2. Do this in the morning.'));
   }
-  $myfile = fopen("data.js", "w") or exit(json_encode("Unable to open file!"));
+  $myfile = fopen("data.js", "w") or exit(implode(error_get_last()));
   fwrite($myfile, $enteredJSON);
   fclose($myfile);
   exit(json_encode("JSON updated"));
