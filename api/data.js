@@ -1,9 +1,9 @@
 var calEvent = {
-  "Monday": {
-    date: "10/12"
+  "Saturday Breakfast": {
+    date: "11/14"
   },
-  'Some Other Event': {
-    date: "Whenever"
+  'OPS Worship': {
+    date: "11/16"
   }
 };
 var uj = {
