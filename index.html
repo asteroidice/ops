@@ -17,8 +17,10 @@
     <script type="text/javascript" src="slick/slick.min.js"></script>
     <script type="text/javascript" src="slick.init.js"></script>
 
-    <!--Events JS-->
+    <!--Custom JS-->
     <script type="text/javascript" src="js/events.js"></script>
+    <script type="text/javascript" src="js/hallvshall.js"></script>
+
     <!--JS file with JSONs-->
     <script type="text/javascript" src="api/data.js"></script>
 
@@ -48,18 +50,30 @@
     <hr/>
     </div>
   </div>
-  <!--Main Content-->
+  <!--Main Container-->
   <div class="row">
-    <div class="large-4 columns">
-      <img src="https://www.cardcow.com/images/set316/card00140_fr.jpg" style="-webkit-filter:saturate(130%);"/>
-      <h4>About OPS</h4>
-      <p>Omicron Pi Sigma is the place to be. Here a kid can be a kid, a man can be a man, and brothers can live together in unity! Great news if you are living Sittner dorm you are automaticaly enrolled in OPS. Welcome to the dark side. </p>
+    <div class="large-8 columns">
+      <!-- Main Content -->
+      <div class="row">
+        <div class="large-6 columns">
+          <img src="https://www.cardcow.com/images/set316/card00140_fr.jpg" style="-webkit-filter:saturate(130%);"/>
+          <h4>About OPS</h4>
+          <p>Omicron Pi Sigma is the place to be. Here a kid can be a kid, a man can be a man, and brothers can live together in unity! Great news if you are living Sittner dorm you are automaticaly enrolled in OPS. Welcome to the dark side. </p>
+        </div>
+        <div class="large-6 columns">
+          <img src="http://www.knok.com/100-cities/wp-content/uploads/2013/07/University_of_Otago__Clocktower.jpg"/>
+          <h4>Our Goal</h4>
+          <p>The OPS Cabinet and all the OPS officers strive to make your dorm experience as awesome as possible. Whether it's a weekly OPS worship or a Super Smash Bros. tournament we are happy to create lasting memories with all the Sittner residents.</p>
+        </div>
+      </div>
+      <hr>
+
+      <!-- Hall vs Hall -->
+      <div class="row">
+        <div id="HvsH" class="small-12 columns"></div>
+      </div>
     </div>
-    <div class="large-4 columns">
-      <img src="http://www.knok.com/100-cities/wp-content/uploads/2013/07/University_of_Otago__Clocktower.jpg"/>
-      <h4>Our Goal</h4>
-      <p>The OPS Cabinet and all the OPS officers strive to make your dorm experience as awesome as possible. Whether it's a weekly OPS worship or a Super Smash Bros. tournament we are happy to create lasting memories with all the Sittner residents.</p>
-    </div>
+    <!-- Sidebar -->
     <div id="events" class="large-4 columns">
       <h4 class="small-centered">Upcomming events</h4>
       <hr/>

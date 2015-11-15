@@ -6,6 +6,16 @@ var calEvent = {
     date: "11/16"
   }
 };
+var HvsH = {
+  '4N': 100,
+  '4S': 300,
+  '3N': 200,
+  '3S': 500,
+  '2N': 205,
+  '2S': 123,
+  '1N': 342,
+  '1S': 174
+};
 var uj = {
   "1st Volume": {
     link: "UJ1.pdf"
