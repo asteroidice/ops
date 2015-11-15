@@ -16,6 +16,9 @@ var HvsH = {
   '1N': 342,
   '1S': 174
 };
+var stud = {
+  'username': 'ryan.rabello'
+};
 var uj = {
   "1st Volume": {
     link: "UJ1.pdf"

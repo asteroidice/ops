@@ -1,9 +1,7 @@
 //Possible future implementation to animate bars needs more work.
 //Call looks like this animateBars(k, (v / max) * 100)
 function animateBars(id, value) {
-  console.log(id, value);
-  $('#' + id).animate({width:value + '%'}, 50*value);
-  //return 1;
+  $('#' + id).animate({width:value + '%'}, 30*value);
 };
 
 $(document).ready(function(){
@@ -14,7 +12,7 @@ $(document).ready(function(){
   })
   $('#HvsH').append('<h5>Hall vs Hall</h5>');
   $.each(HvsH, function(k, v) {
-    $('#HvsH').append( k + '<div class="progress"><span id="' + k + '" class="meter text-center text-white" style="width:1%;">' + v + '</span></div>');
+    $('#HvsH').append( k + '<div class="progress round"><span id="' + k + '" class="meter text-center" style="width:0%; color:white;">' + v + '</span></div>');
     animateBars(k, (v / max) * 100)
   });
 });
