@@ -7,17 +7,17 @@ var calEvent = {
   }
 };
 var HvsH = {
-  '4N': 100,
-  '4S': 300,
-  '3N': 200,
-  '3S': 500,
-  '2N': 205,
-  '2S': 123,
-  '1N': 342,
-  '1S': 174
+  '4N': 25,
+  '4S': 50,
+  '3N': 25,
+  '3S': 25,
+  '2N': 25,
+  '2S': 100,
+  '1N': 25,
+  '1S': 75
 };
 var stud = {
-  'username': 'ryan.rabello'
+  'username': 'jacob.weber'
 };
 var uj = {
   "1st Volume": {
