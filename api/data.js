@@ -63,9 +63,22 @@ var officerTeam = {
       position: "Marketing VP",
       imageUrl: "nathan.jpg"
     },
+    "Andre Gonzalez":{
+    	    position: "Co-UJ Producer",
+    	    imageUrl: "andre.jpg"
+    },
+    "Tyler Holland": {
+    	    position: "Co-UJ Producer",
+    	    imageUrl: "tyler.jpg"
+    },
+    "Xander Wirtz":{
+    	    position: "Poster Designer",
+    	    imageUrl: "xander.jpg"
+    },
     "Ryan Rabello": {
       position: "Webmaster",
       imageUrl: "ryan.jpg"
     }
+
   }
 };
