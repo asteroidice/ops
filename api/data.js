@@ -56,6 +56,10 @@ var officerTeam = {
     "Jordan Dubini": {
       position: "Financial VP",
       imageUrl: "jordan.jpg"
+    },
+    "Jose Alfredo Garcia": {
+      position: "Sargent of Arms",
+      imageUrl: "jose.jpg"
     }
   },
   "Marketing Team": {
