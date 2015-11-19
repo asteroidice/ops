@@ -58,7 +58,7 @@ var officerTeam = {
       imageUrl: "jordan.jpg"
     },
     "Jose Alfredo Garcia": {
-      position: "Sargent of Arms",
+      position: "Sergeant of Arms",
       imageUrl: "jose.jpg"
     }
   },
