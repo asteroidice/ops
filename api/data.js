@@ -1,10 +1,23 @@
 var calEvent = {
-  "Monday": {
-    date: "10/12"
+  "Saturday Breakfast": {
+    date: "11/14"
   },
-  'Some Other Event': {
-    date: "Whenever"
+  'OPS Worship': {
+    date: "11/16"
   }
+};
+var HvsH = {
+  '4N': 25,
+  '4S': 50,
+  '3N': 25,
+  '3S': 25,
+  '2N': 25,
+  '2S': 100,
+  '1N': 25,
+  '1S': 75
+};
+var stud = {
+  'username': 'jacob.weber'
 };
 var uj = {
   "1st Volume": {
@@ -43,6 +56,10 @@ var officerTeam = {
     "Jordan Dubini": {
       position: "Financial VP",
       imageUrl: "jordan.jpg"
+    },
+    "Jose Alfredo Garcia": {
+      position: "Sergeant of Arms",
+      imageUrl: "jose.jpg"
     }
   },
   "Marketing Team": {
@@ -50,9 +67,22 @@ var officerTeam = {
       position: "Marketing VP",
       imageUrl: "nathan.jpg"
     },
+    "Andre Gonzalez":{
+    	    position: "Co-UJ Producer",
+    	    imageUrl: "andre.jpg"
+    },
+    "Tyler Holland": {
+    	    position: "Co-UJ Producer",
+    	    imageUrl: "tyler.jpg"
+    },
+    "Xander Wirtz":{
+    	    position: "Poster Designer",
+    	    imageUrl: "xander.jpg"
+    },
     "Ryan Rabello": {
       position: "Webmaster",
       imageUrl: "ryan.jpg"
     }
+
   }
 };
