@@ -20,11 +20,32 @@ var stud = {
   'username': 'parker.sequeira'
 };
 var uj = {
-  "1st Volume": {
+  "1st Issue": {
     link: "UJ1.pdf"
   },
-  '2nd Volume': {
+  '2nd Issue': {
     link: "UJ2.pdf"
+  },
+  '3rd Issue': {
+    link: "UJ3.pdf"
+  },
+  '4th Issue': {
+    link: "UJ4.pdf"
+  },
+  '5th Issue': {
+    link: "UJ5.pdf"
+  },
+  '6th Issue': {
+    link: "UJ6.pdf"
+  },
+  '7th Issue': {
+    link: "UJ7.pdf"
+  },
+  '8th Issue': {
+    link: "UJ8.pdf"
+  },
+  '9th Issue': {
+    link: "UJ9.pdf"
   }
 };
 var officerTeam = {
@@ -62,22 +83,36 @@ var officerTeam = {
       imageUrl: "jose.jpg"
     }
   },
+  "Hall Representatives": {
+    "Hayden Allen": {
+      position: "Sittner North",
+      imageUrl: "hayden.jpg"
+    },
+    "Joshua Bibb": {
+      position: "Sittner South",
+      imageUrl: "bibb.jpg"
+    },
+    "Jeremy Gaines": {
+      position: "Mesky",
+      imageUrl: "http://lorempixel.com/400/600/cats"
+    }
+  },
   "Marketing Team": {
     "Nathan Zimmerly": {
       position: "Marketing VP",
       imageUrl: "nathan.jpg"
     },
+    "Joshua Bendezu": {
+      position: "Marketing VP",
+      imageUrl: "Bendezu.jpg"
+    },
     "Andre Gonzalez":{
-    	    position: "Co-UJ Producer",
+    	    position: "UJ Head Producer",
     	    imageUrl: "andre.jpg"
     },
     "Tyler Holland": {
-    	    position: "Co-UJ Producer",
+    	    position: "UJ Producer",
     	    imageUrl: "tyler.jpg"
-    },
-    "Xander Wirtz":{
-    	    position: "Poster Designer",
-    	    imageUrl: "xander.jpg"
     },
     "Ryan Rabello": {
       position: "Webmaster",
