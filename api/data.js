@@ -103,7 +103,7 @@ var officerTeam = {
       imageUrl: "nathan.jpg"
     },
     "Joshua Bendezu": {
-      position: "Marketing VP",
+      position: "Marketing Assistant",
       imageUrl: "Bendezu.jpg"
     },
     "Andre Gonzalez":{
