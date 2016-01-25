@@ -97,7 +97,7 @@ var officerTeam = {
       imageUrl: "bibb.jpg"
     },
     "Jeremy Gaines": {
-      position: "Mesky",
+      position: "Lord of Mesky",
       imageUrl: "http://lorempixel.com/400/600/cats"
     }
   },
