@@ -46,6 +46,9 @@ var uj = {
   },
   '9th Issue': {
     link: "UJ9.pdf"
+  },
+  '10th Issue':{
+    link: "UJ10.pdf"
   }
 };
 var officerTeam = {
