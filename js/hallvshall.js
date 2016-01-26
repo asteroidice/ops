@@ -12,7 +12,7 @@ $(document).ready(function(){
   })
   $('#HvsH').append('<h5>Hall vs Hall</h5>');
   $.each(HvsH, function(k, v) {
-    $('#HvsH').append( k + '<div class="progress round"><span id="' + k + '" class="meter text-center" style="width:0%; color:white;">' + v + '</span></div>');
+    $('#HvsH').append( k + '<div class="progress" role="progressbar"><div id="' + k + '" class="progress-meter text-center" style="width:0%; color:white;font-size:.7em;">' + v + '</div></div>');
     animateBars(k, (v / max) * 100)
   });
 });
