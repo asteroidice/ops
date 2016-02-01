@@ -98,7 +98,7 @@ var officerTeam = {
     },
     "Jeremy Gaines": {
       position: "Lord of Meske",
-      imageUrl: "http://lorempixel.com/400/600/cats"
+      imageUrl: "jeremy.jpg"
     }
   },
   "Marketing Team": {
