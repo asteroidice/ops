@@ -1,11 +1,15 @@
-var calEvent = {
-  "Saturday Breakfast": {
-    date: "11/14"
-  },
-  'OPS Worship': {
-    date: "11/16"
+var calEvent = [{
+  'name':"Saturday Breakfast",
+    'date': "January 30, 2016 9:00:00",
+    'repeat': 2,
+    'end': ""
+  },{
+  'name':'OPS Worship',
+    'date': "January 25, 2016 21:15:00",
+    'repeat': 1,
+    'end': ""
   }
-};
+];
 var HvsH = {
   '4N': 150,
   '4S': 225,
