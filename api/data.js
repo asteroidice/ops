@@ -8,6 +8,9 @@ var calEvent = [{
     'date': "January 25, 2016 21:15:00",
     'repeat': 1,
     'end': ""
+  },{
+    'name':'8 Minute Abs Presentation',
+    'date': "Feb 8, 2016 21:00"
   }
 ];
 var HvsH = {
