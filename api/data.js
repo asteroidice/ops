@@ -1,16 +1,11 @@
 var calEvent = [{
-  'name':"Saturday Breakfast",
-    'date': "January 30, 2016 9:00:00",
-    'repeat': 2,
-    'end': ""
-  },{
   'name':'OPS Worship',
     'date': "January 25, 2016 21:15:00",
     'repeat': 1,
     'end': ""
   },{
-    'name':'8 Minute Abs Presentation',
-    'date': "Feb 8, 2016 21:00"
+    'name':'Amateur Hour',
+    'date': "Feb 27, 2016 19:00"
   }
 ];
 var HvsH = {
@@ -25,7 +20,7 @@ var HvsH = {
   'M': 150
 };
 var stud = {
-  'username': 'parker.sequeira'
+  'username': 'jesse.noble'
 };
 var uj = {
   "1st Issue": {
@@ -120,10 +115,6 @@ var officerTeam = {
     "Andre Gonzalez":{
     	    position: "UJ Head Producer",
     	    imageUrl: "andre.jpg"
-    },
-    "Tyler Holland": {
-    	    position: "UJ Producer",
-    	    imageUrl: "tyler.jpg"
     },
     "Ryan Rabello": {
       position: "Webmaster",
