@@ -52,6 +52,12 @@ var uj = {
   },
   '10th Issue':{
     link: "UJ10.pdf"
+  },
+  '11th Issue (cars)':{
+    link: "UJ11.pdf"
+  },
+  '13th Issue (Dating)':{
+    link: "UJ13.pdf"
   }
 };
 var officerTeam = {
