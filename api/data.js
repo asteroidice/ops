@@ -9,18 +9,18 @@ var calEvent = [{
   }
 ];
 var HvsH = {
-  '4N': 150,
-  '4S': 225,
-  '3N': 175,
-  '3S': 150,
+  '4N': 200,
+  '4S': 300,
+  '3N': 200,
+  '3S': 175,
   '2N': 100,
-  '2S': 225,
-  '1N': 100,
+  '2S': 325,
+  '1N': 125,
   '1S': 225,
-  'M': 150
+  'M': 175
 };
 var stud = {
-  'username': 'jesse.noble'
+  'username': 'rex.culbertson'
 };
 var uj = {
   "1st Issue": {
