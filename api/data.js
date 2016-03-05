@@ -58,6 +58,9 @@ var uj = {
   },
   '13th Issue (Dating)':{
     link: "UJ13.pdf"
+  },
+  '14th Issue (Carpet)':{
+    link:"UJ14.pdf"
   }
 };
 var officerTeam = {
@@ -121,6 +124,26 @@ var officerTeam = {
     "Andre Gonzalez":{
     	    position: "UJ Head Producer",
     	    imageUrl: "andre.jpg"
+    },
+    "David Harris":{
+      position: "Head Graphics Designer",
+      imageUrl: "david.jpg"
+    },
+    "Trevor Hernandez": {
+      position: "Graphics Designer",
+      imageUrl: "trevor.jpg"
+    },
+    "Austin Silcox":{
+      position: "Graphics Designer",
+      imageUrl: "austin.jpg"
+    },
+    "Spencer Sherwin":{
+      position: "Graphics Designer",
+      imageUrl: "spencer.jpg"
+    },
+    "Toluwanimi Oyefeso":{
+      position: "Graphics Designer",
+      imageUrl: "tolu.jpg"
     },
     "Ryan Rabello": {
       position: "Webmaster",
