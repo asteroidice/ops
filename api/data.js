@@ -61,6 +61,9 @@ var uj = {
   },
   '14th Issue (Carpet)':{
     link:"UJ14.pdf"
+  },
+  '15th Issue (Batman)':{
+    link:"UJ15.pdf"
   }
 };
 var officerTeam = {
