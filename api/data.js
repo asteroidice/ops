@@ -4,8 +4,11 @@ var calEvent = [{
     'repeat': 1,
     'end': ""
   },{
-    'name':'Amateur Hour',
-    'date': "Feb 27, 2016 19:00"
+    'name':'President Elections Barbecue',
+    'date': "April 17, 2016 19:00"
+  },{
+    'name':'Hall vs Hall',
+    "date": "March 9, 2016 11:30"
   }
 ];
 var HvsH = {
@@ -20,7 +23,7 @@ var HvsH = {
   'M': 175
 };
 var stud = {
-  'username': 'rex.culbertson'
+  'username': 'samuel.brown'
 };
 var uj = {
   "1st Issue": {
