@@ -67,6 +67,12 @@ var uj = {
   },
   '15th Issue (Batman)':{
     link:"UJ15.pdf"
+  },
+  '16th Issue (Spring Break)':{
+    link:"UJ16.pdf"
+  },
+  "17th Issue (Computers)":{
+    link:"UJ17.pdf"
   }
 };
 var officerTeam = {
