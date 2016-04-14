@@ -73,6 +73,12 @@ var uj = {
   },
   "17th Issue (Computers)":{
     link:"UJ17.pdf"
+  },
+  "18th Issue (TV)":{
+    link:"UJ18.pdf"
+  },
+  "19th Issue (Birthdays)":{
+    link:"UJ19.pdf"
   }
 };
 var officerTeam = {
