@@ -5,7 +5,7 @@ var calEvent = [{
     'end': ""
   },{
     'name':'President Elections Barbecue',
-    'date': "April 17, 2016 19:00"
+    'date': "April 17, 2016 13:00"
   },{
     'name':'Hall vs Hall',
     "date": "March 9, 2016 11:30"
@@ -79,6 +79,9 @@ var uj = {
   },
   "19th Issue (Birthdays)":{
     link:"UJ19.pdf"
+  },
+  "20th Issue (Marvel)":{
+    link:"UJ20.pdf"
   }
 };
 var officerTeam = {
