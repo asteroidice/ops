@@ -82,6 +82,12 @@ var uj = {
   },
   "20th Issue (Marvel)":{
     link:"UJ20.pdf"
+  },
+  "21th Issue (Space)":{
+    link:"UJ21.pdf"
+  },
+  "22th Issue (Fast Food)":{
+    link:"UJ22.pdf"
   }
 };
 var officerTeam = {
