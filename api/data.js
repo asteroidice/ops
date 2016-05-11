@@ -88,6 +88,9 @@ var uj = {
   },
   "22th Issue (Fast Food)":{
     link:"UJ22.pdf"
+  },
+  "23th Issue (Video Games)":{
+    link:"UJ23.pdf"
   }
 };
 var officerTeam = {
