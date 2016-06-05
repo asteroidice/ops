@@ -91,6 +91,15 @@ var uj = {
   },
   "23th Issue (Video Games)":{
     link:"UJ23.pdf"
+  },
+  "25th Issue (Jungle)":{
+    link:"UJ25.pdf"
+  },
+  "26th Issue (French)":{
+    link:"UJ26.pdf"
+  },
+  "27th Issue (Black)":{
+    link:"UJ27.pdf"
   }
 };
 var officerTeam = {
