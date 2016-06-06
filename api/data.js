@@ -94,7 +94,7 @@ var uj = {
   },
   "24th Issue (Rabbits)":{
     link:"UJ24.pdf"
-  }
+  },
   "25th Issue (Jungle)":{
     link:"UJ25.pdf"
   },
