@@ -92,6 +92,9 @@ var uj = {
   "23th Issue (Video Games)":{
     link:"UJ23.pdf"
   },
+  "24th Issue (Rabbits)":{
+    link:"UJ24.pdf"
+  }
   "25th Issue (Jungle)":{
     link:"UJ25.pdf"
   },
