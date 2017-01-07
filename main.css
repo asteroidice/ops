@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+html, body {
+  padding:0;
+  margin:0;
+}
+#background  {
+  background-image: url("./img/fall%20sittner.jpg");
+  filter: opacity(10%) brightness(200%);
+  top:0;
+  bottom: 0;
+  left:0;
+  right:0;
+  position:absolute;
+  z-index: -100;
+  background-size: cover;
+}
+#icon {
+  height:auto;
+  width: 7rem;
+  padding: 2rem;
+  padding-bottom: 0;
+}
+#container {
+  display:flex;
+  height:100vh;
+  justify-content: center;
+  align-items: center;
+  overflow: scroll;
+}
+#content {
+  margin:auto;
+  width: 60rem;
+  max-width: 100%;
+  padding:1rem;
+  font-family: 'Merriweather', serif;
+  text-align:center;
+  font-size: 2.5rem;
+  line-height: 5rem;
+  color: #575757;
+}
+
+#author {
+  text-align: right;
+}
+
+a.normal, a.normal:visited {
+  text-decoration: none;
+  color: #92d9f0;
+}
+a.normal:hover {
+  text-decoration: underline;
+}
