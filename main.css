@@ -45,8 +45,24 @@ html, body {
 
 a.normal, a.normal:visited {
   text-decoration: none;
-  color: #92d9f0;
+  color: #28b3e2;
 }
 a.normal:hover {
   text-decoration: underline;
+}
+
+.round-photo {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 7rem;
+  height: 7rem;
+  vertical-align: middle;
+  transition: all .2s ease;
+}
+.round-photo img {
+  width:100%;
+}
+.round-photo:hover {
+  transform: rotate(-360deg);
 }
